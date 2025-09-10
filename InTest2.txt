@@ -1,1 +1,2 @@
-ไฟล์นี้อยู่ใน Branch test2
+ไฟล์นี้อยู่ใน Branch test2 
+หลัง merge ไฟล์นี้มารวมอยู่ใน test1
